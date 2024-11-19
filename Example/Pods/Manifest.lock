@@ -1,0 +1,16 @@
+PODS:
+  - YourPODFile (0.1.0)
+
+DEPENDENCIES:
+  - YourPODFile (from `../`)
+
+EXTERNAL SOURCES:
+  YourPODFile:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YourPODFile: c485df780cdcab78e6526ca90d63f75a9f373f0a
+
+PODFILE CHECKSUM: d72348fccc86e6d636f467afe210086aa7b2b46b
+
+COCOAPODS: 1.16.2

@@ -1,0 +1,6 @@
+framework module YourPODFile {
+  umbrella header "YourPODFile-umbrella.h"
+
+  export *
+  module * { export * }
+}
